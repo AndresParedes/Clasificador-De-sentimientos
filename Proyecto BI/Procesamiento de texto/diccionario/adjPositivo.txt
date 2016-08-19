@@ -1,0 +1,136 @@
+
+adaptable
+adorable	3
+agreeable
+alert
+alluring
+ambitious
+amused
+boundless
+benefit
+brave
+bright
+calm
+capable
+charming	3
+cheerful
+coherent
+Comedy	2
+comfortable
+confident
+cooperative
+courageous	4
+credible
+cultured
+dashing
+dazzling
+debonair
+decisive
+decorous
+delightful
+detailed
+determined
+diligent
+discreet
+dynamic	2
+eager
+efficient
+elated
+eminent
+enchanting
+encouraging
+endurable
+energetic
+entertaining
+enthusiastic	3
+excellent	4
+excited
+exclusive
+exuberant	3
+fabulous
+fair
+faithful
+fantastic
+fearless
+fine
+frank
+friendly
+funny
+generous
+gentle
+glorious	3
+good
+happy	3
+harmonious
+helpful
+hilarious	3
+honorable
+impartial
+industrious
+instinctive
+jolly
+joyous
+kind	
+kind-hearted
+knowledgeable
+level
+likable
+lively
+lovely	3
+loving
+lucky
+mature
+modern
+nice	3
+obedient
+painstaking
+peaceful
+perfect
+placid
+plausible
+pleasant
+plucky
+productive	2
+protective
+proud
+punctual
+quiet
+receptive
+reflective
+relieved
+resolute
+responsible
+rhetorical
+righteous
+romantic
+sedate
+seemly
+selective
+self-assured
+sensitive
+shrewd
+sincere	2
+skillful
+smiling
+splendid
+steadfast
+stimulating
+successful	4
+succinct
+talented
+thoughtful
+thrifty
+tough
+trustworthy
+unbiased
+unusual
+upbeat
+vigorous
+vivacious
+warm	2
+willing
+wise
+witty
+wonderful
+zany
+zealous

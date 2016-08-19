@@ -1,0 +1,918 @@
+
+absorbed
+accelerated
+accepted	3
+accessed
+acclimated
+accommodated
+accomplished
+accorded
+accrued
+acculturated
+accumulated
+accustomed
+achieved	4
+acquainted
+acquired
+acted
+activated
+actualized
+actuated
+adapted
+added	3
+addressed
+adjusted
+administered
+administrated
+admired
+adopted	3
+adored	4
+advanced	
+advertised
+advised
+affiliated
+affirmed
+agreed	3
+agglomerated
+aggregated
+aided
+alerted
+allotted
+allowed	3
+altered
+amalgamated
+amazed
+amassed
+ameliorated
+amplified
+analyzed
+animated	3
+announced
+anticipated
+applied
+appointed
+appraised
+appreciated
+apprised
+approached
+approved
+arbitrated
+aroused
+arranged
+arrested
+arrived
+ascertained
+assented
+assembled
+assessed
+assigned
+assisted
+assumed
+astounded
+ate
+slept
+breathed
+attacked
+attained
+attended
+attracted
+attuned
+audited
+augmented
+awakened
+backed
+balanced
+beatified
+became	3
+began
+beefed up
+belonged
+benefited
+bid
+billed
+blended in
+blessed	3
+bloomed
+blossomed
+blueprinted
+bolstered
+boosted
+bound
+bounded
+bore
+bought
+briefed
+broadcasted
+broke ground
+brought
+budgeted
+built
+built up   
+cached
+calculated
+calibrated
+called
+capped
+captivated
+carried
+carried on
+carried out
+cast
+catalogued
+caught
+caused
+celebrated
+challenged
+championed
+changed
+chaperoned
+characterized
+charted
+checked
+cheered
+chose
+circulated
+clarified
+classified
+cleaned
+cleansed
+cleared
+closed
+coached
+coalesced
+coaxed
+collated
+collected
+collocated
+combined
+commanded
+commenced
+communicated
+compared
+compelled
+competed
+compiled
+completed
+compensated
+complied
+comported
+composed
+computed
+conceived
+concentrated
+concentrated on
+conceptualized
+concluded
+concurred
+conducted
+confirmed
+conformed
+confronted
+conjoined
+connected
+conquered
+conserved
+consigned
+consolidated
+constructed
+consulted
+consummated
+contained
+continued
+contracted
+controlled
+converted
+cooked
+cooperated
+coordinated
+corralled
+corrected
+correlated
+corresponded
+continue
+counselled
+counted
+counteracted
+counterbalanced
+covered
+cracked
+created
+critiqued
+cuddled
+cultivated
+cumulated
+curbed   
+dazzled
+dealt
+débuted
+decided
+deepened
+defeated
+defended
+defined
+delegated
+delighted
+delivered
+delivered speech
+demonstrated
+designed
+detailed
+detected
+determined
+developed
+devised
+devoted oneself to
+diagnosed
+dialled back
+did justice
+did proud
+did the trick
+directed
+disambiguated
+discovered
+discussed
+dismissed
+dispensed
+dispersed
+dispatched
+displayed
+disposed
+disproved
+dissected
+distributed
+diverted
+diversified
+divided
+dovetailed
+drafted
+dramatized
+drew
+drew together
+drew up
+drove
+dug up
+dwelt
+earned
+edited
+educated
+edified
+effected
+electrified
+elevated
+elicited
+eliminated
+embarked on
+embodied
+embraced
+empathized
+employed
+empowered
+emulated
+enabled
+enacted
+encouraged
+ended
+endorsed
+energized
+enforced
+engaged
+engaged in
+engineered
+engrossed
+enhanced
+enjoyed
+enlarged
+enlisted
+enlivened
+ensured
+entertained
+enthralled
+enticed
+enumerated
+epitomized
+espoused
+equalized
+equalled
+established
+estimated
+evaluated
+evened
+eventuated
+evinced
+evoked
+examined
+exceeded
+excited
+executed
+exercised
+exerted
+exerted influence
+exhibited
+expanded
+expedited
+experimented
+explained
+explicated
+exploited
+expressed
+extended
+extracted
+faced
+facilitated
+familiarized
+fascinated
+fastened
+fast tracked
+fed
+felicitated
+fine-tuned
+filed
+filled
+filmed
+finalized
+financed
+finished
+fired up
+fit
+found
+fixed
+fixed up
+fleshed out
+flew
+forecast
+forewent
+foresaw
+foretold
+forgave
+formed
+formulated
+forwarded
+forewarned
+found
+framed
+fulfilled
+furnished
+furthered
+fused
+gained
+galvanized
+gathered
+gathered momentum
+gave
+gave a leg up
+gave a lift
+gave rise to
+gave rundown
+generated
+giggled
+got
+got going
+got hold of
+got in there
+got into
+got someplace
+got there
+got together
+got ready
+governed
+graded
+graduated
+greased the wheels
+greeted
+grew
+guaranteed
+guarded
+guided
+gunned
+habituated
+handled
+handwrote
+hammered out
+harmonized
+hastened
+headed
+headed up
+heightened
+helped
+held
+held the reins on
+held office
+held with
+helped
+heralded
+hiked up
+hit
+honoured
+hustled
+hyped
+identified
+illustrated
+impelled
+implemented
+impressed
+improved
+improvised
+inaugurated
+incentivized
+included
+incorporated
+increased
+induced
+influenced
+informed
+initiated
+injected
+inlayed
+innovated
+input
+inspected
+inspired
+inspirited
+installed
+instituted
+instructed
+insured
+integrated
+intensified
+interacted
+interceded
+interconnected
+interested
+interfaced
+interfered
+interlaced
+interlaid
+interplayed
+interpreted
+interviewed
+intrigued
+introduced
+intuited
+invited	3
+invented
+inventoried
+investigated
+invigorated
+invited
+involved
+ironed out
+irroborated
+jacked up
+join
+joined
+juggled
+justified
+kept
+kindled
+kissed
+knew
+knit together
+knocked off
+was known
+knuckled down to
+labelled
+laboured
+laid foundation for
+laid out
+landed
+laughed
+launched
+leant
+learned
+lectured
+led
+led to
+lengthened
+liberated
+licensed
+lifted
+like
+love
+liked
+lined up
+linked
+livened
+lightened
+listed
+listened
+loaded up
+loaned
+located
+locked
+locked up
+lured 
+maintained
+made
+made a bundle
+married
+magnified
+manoeuvred
+manned
+managed
+manufactured
+mapped
+mapped out
+marketed
+massed
+matched
+mated
+mattered
+measured
+mediated
+melded
+memorialized
+memorized
+mended
+mentored
+meshed
+met
+meted
+mitigated
+mobilized
+modeled
+moderated
+modified
+monitored
+motivated
+mounted
+moved
+multiplied
+munified
+nailed
+nailed it
+named
+navigated
+negotiated
+nominated
+normalized
+noted
+notified
+nourished
+nurtured 
+observed
+obtained
+occupied
+occurred
+offered
+officiated
+offset
+opened
+operated
+orchestrated
+ordered
+organized
+oriented
+originated
+outgunned
+overcame
+oversaw
+owned 
+packed
+paid
+painted
+paralleled
+participated
+parcelled
+partitioned
+patronized
+penetrated
+perceived
+percolated
+perfected
+performed
+permitted
+persevered
+persisted
+personified
+persuaded
+phoned
+photographed
+picked up
+piled up
+piloted
+pinpointed
+pioneered
+pitched
+placed
+planned
+planted
+planted seeds
+play
+played
+pleased
+plunged into
+polished
+portrayed
+possessed
+posted
+practiced
+predicted
+premiated
+prepared
+prescribed
+presented
+preserved
+presided
+pressed
+prevailed
+prevented
+primed
+printed
+processed
+procured
+produced
+proffered
+profited
+programmed
+progressed
+projected
+promoted
+prompted
+promulgated
+proofread
+propelled
+propitiated
+proportioned
+proposed
+prospered
+prorated
+protected
+proved
+provided
+publicized
+pulled 
+purchased
+purified
+pursued
+pushed
+put forward
+put on the map  
+quadrated
+qualified
+quantified
+quarterbacked
+quickened
+quieted
+racked up
+raised
+rallied
+ran
+ranked
+rated
+ratified
+reached
+reacted
+read
+readjusted
+realigned
+realized
+recalibrated
+recast
+received
+recognized
+recommended
+reconciled
+reconstructed
+recorded
+recruited
+rectified
+redressed
+reduced
+re-established
+refashioned
+referred
+reflected
+reformed
+refreshed
+regarded
+regimented
+regulated
+rehabilitated
+reinforced
+reinfunded
+rejuvenated
+related
+relaxed
+released
+relied
+relieved
+reminded
+remitted
+remodelled
+removed
+rendered
+renovated
+reorganized
+repaired
+replaced
+reported
+represented
+reproduced
+requested
+requisitioned
+rescued
+researched
+reshaped
+resolved
+respected
+responded
+restored
+restructured
+retired
+retrieved
+returned
+revamped
+revealed
+reviewed
+revised
+revived	3
+revivified
+revved
+revved up
+rid
+riveted
+rode shotgun
+rolled
+rose
+rounded up
+roused
+routed 
+satisfied
+saved
+savoured
+saw
+scared up
+scheduled
+scored
+sealed
+searched
+secured
+was seen
+seized
+serviced
+settled
+sought
+selected
+sent
+separated
+served
+serviced
+set
+settled
+sewed 
+shaped
+shipped
+shone
+showed
+sided
+simplified
+smiled
+smoothed
+sold
+solicited
+solved
+sorted
+souped up
+sparked
+spellbound
+spoke
+spoke for
+specified
+sped
+spotted
+sponsored
+spread
+sprinted
+spruced up
+spurred
+stabilized
+standardized
+started
+stayed
+steered
+stimulated
+stirred
+stockpiled
+stood by
+stopped
+stored
+straightened up
+streamlined
+strengthened
+stretched
+strove
+struck
+struck deals
+struck gold
+struck the market
+strove
+store
+submitted
+succeeded
+suggested
+suited
+summarized
+summated
+summed
+superintended
+supervised
+supplemented
+supplied
+supported
+surprised
+surveyed
+sustained
+sweetened
+switched
+switched on
+sympathised
+synchronized
+synthesized
+systemized   
+tabulated
+tailored
+tailor-made
+tallied
+talked
+tamed
+targeted
+taught
+tempered
+tested
+teach
+thanked
+thrived
+thrust
+tied
+titivated
+toned
+took 
+topped
+toted up
+totalled
+touted
+traced
+traded
+trained
+transacted
+transcribed
+transferred
+treasure
+transformed
+translated
+transmitted
+transported
+travelled
+triumphed
+troubleshot
+tuned
+turned
+turned on afterburners
+tutored
+tweaked
+typed
+unlike
+uncovered
+understood
+underwent
+undertook
+unified
+united
+updated
+upgraded
+upheld
+uplifted
+upraised
+upskilled
+upstayed
+urged
+used
+utilized
+vaulted
+valued
+varied
+verified
+vindicated
+vitalized
+vivified
+wakened
+was 
+wed
+win
+wedded
+weighed
+welcomed
+went 
+were 
+whet
+whipped 
+whished 
+widened
+withstood
+won
+worked
+wove
+wrangled
+wrapped
+wrote
+yielded

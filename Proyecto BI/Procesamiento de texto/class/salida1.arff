@@ -1,0 +1,51 @@
+@relation Sentences
+
+@attribute adjetives real
+@attribute verbs real
+@attribute clasificacion {positivo, negativo, neutral}
+
+@data
+1, 2, Positivo
+0, 2, Positivo
+0, 2, Positivo
+0, 0, Neutral
+-3, -2, Negativo
+0, -2, Negativo
+1, 2, Positivo
+1, -2, Negativo
+0, 0, Neutral
+1, 0, Positivo
+-1, -2, Negativo
+0, 0, Neutral
+0, 0, Neutral
+1, 0, Positivo
+0, 0, Neutral
+0, -2, Negativo
+0, 0, Neutral
+0, 2, Positivo
+0, 2, Positivo
+0, 0, Neutral
+0, 0, Neutral
+0, -2, Negativo
+0, 2, Positivo
+0, 0, Neutral
+0, 0, Neutral
+0, -2, Negativo
+0, 0, Neutral
+0, 0, Neutral
+0, 0, Neutral
+0, 0, Neutral
+0, 2, Positivo
+0, 0, Neutral
+0, -4, Negativo
+0, 0, Neutral
+0, 0, Neutral
+0, -2, Negativo
+1, 0, Positivo
+0, 0, Neutral
+1, 0, Positivo
+-7, 2, Negativo
+0, 2, Positivo
+0, -1, Negativo
+0, -7, Negativo
+0, 0, Neutral

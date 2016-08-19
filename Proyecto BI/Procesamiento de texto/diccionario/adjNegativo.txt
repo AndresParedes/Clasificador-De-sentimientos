@@ -1,0 +1,152 @@
+
+abrasive
+abrupt
+abusive	3
+afraid
+aloof
+alone
+ambiguous
+angry	3
+annoyed
+anxious
+arrogant
+ashamed
+awful
+bad	4
+belligerent
+bewildered
+boorish
+bored
+boring
+callous
+careless
+clumsy
+combative
+confused
+cowardly
+crazy
+creepy
+cruel
+cancelled
+cynical
+dangerous	4
+deceitful
+defeated
+defective
+defiant
+dead	4
+demonic	5
+depressed
+deranged
+disagreeable
+disillusioned
+disturbed
+domineering
+draconian
+embarrassed
+envious
+erratic
+evasive
+evil	3
+faded
+fanatical
+fierce
+filthy
+finicky
+flashy
+flippant
+foolish
+forgetful
+frantic
+fretful
+frightened
+furtive
+greedy
+grieving
+grouchy
+gruesome
+grumpy
+guarded
+gullible
+helpless
+hesitant
+homeless
+horrible	4
+hungry
+hurt
+ignorant	3	
+ill
+irresolute
+jealous	2
+jittery
+lacking
+lazy
+last
+lonely	2
+malicious
+materialistic
+mean
+mysterious
+naive
+nasty	2
+naughty
+nervous
+noisy	2
+obnoxious
+outrageous
+panicky
+pain
+pathetic	2
+possessive
+quarrelsome
+repulsive
+ruthless
+sad	4
+scary	3
+secretive
+selfish
+silly	3
+slow
+sneaky
+snobbish
+sore	3
+spendthrift
+squeamish
+stingy
+small
+strange
+sulky
+tacky
+tense
+terrible	4
+testy
+thick-skinned
+thoughtless
+threatening
+tight
+timid
+tired
+tiresome
+troubled
+truculent
+typical
+undesirable
+unsuitable
+UNFRIENDLY
+unsure
+upset
+uptight
+vague
+vengeful
+venomous
+volatile
+voracious
+vulgar
+wary
+wasteful
+weak	3
+weary
+wicked
+worried
+worthless	3
+wretched
