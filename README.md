@@ -10,3 +10,8 @@ salida y salida1, salida corresponde al dataset de entrenamiento mientras que sa
  * En el directrio libro se encutentran los libros que seran usados como fuente de datos para el procesamiento
  * En el directorio result debera ser ubicado el archivo "archivo.arff" generado por el programa ubicado en el directorio "weka".
  * En el directorio tablas se encontrara el  salida.arff  y salida1.arff los cuales se usan en el programa mencionado anteriormente.
+ * En el directorio unclass se neceita ubicar o mover el archivo salida1.arff a este directorio.
+* El script 1.frases.pl esta realizado en pearl el cual como argumentos para correr recibira el directorio libro, y el directorio. Este limpiara el texto y luego separara en oraciones y guardara el archivo en el directorio frases.
+* El script 2.analisis recibe como argumentos los directorios frases, diccionario y tablas. Este script analizara palabra por palabra el texto ubicado en el directorio frases y generara un archivo con la ponderacion de cada oracion y ademas generara el archivo salida.arff. 
+* El script 3.preubas.pl recogera un archivo separado por oraciones y obtendra sus atributos y asi mismo generara el archivo salida1.arff
+* El script 4.salida.pl tendra como argumentos el directorio el directorio result unclass y class este unira los resultados obtenidos por el programa en java y los combinara con los atributos generados por el script 3.pruebas.pl y se generara en el directorio class un archivo ya clasificado.
